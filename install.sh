@@ -19,6 +19,7 @@ exists_clone https://github.com/sheerun/vim-polyglot ~/.vim/pack/plugins/start/v
 exists_clone https://github.com/vim-airline/vim-airline ~/.vim/pack/plugins/start/vim-airline
 exists_clone https://github.com/rust-lang/rust.vim ~/.vim/pack/plugins/start/rust.vim
 exists_clone https://github.com/fatih/vim-go.git ~/.vim/pack/plugins/start/vim-go
+exists_clone https://github.com/preservim/nerdcommenter.git ~/.vim/pack/vendor/start/nerdcommenter
 
 mkdir -p ~/.vim/autoload/lightline/colorscheme/
 rm -f ~/.vim/autoload/lightline/colorscheme/onedark.vim
